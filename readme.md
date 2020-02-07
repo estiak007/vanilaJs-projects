@@ -1,0 +1,1 @@
+Simple Projects build with vanilla JS.
